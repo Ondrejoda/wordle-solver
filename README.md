@@ -1,2 +1,2 @@
 # wordle-solver
-solves wordle. i wrote it in c because i dont like myself.
+solves wordle. its in python ikkkkk
